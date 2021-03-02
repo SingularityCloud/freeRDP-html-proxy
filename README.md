@@ -7,3 +7,6 @@
 
 ## WebConnect
 - [code](https://github.com/FreeRDP/FreeRDP-WebConnect)
+
+# sch:
+[freerdp over http](https://www.google.com/search?q=freerdp+over+http)
